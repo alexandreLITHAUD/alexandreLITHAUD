@@ -8,9 +8,12 @@ I am a fellow DevOps Engineer at AViSTO at Grenoble in France 🇫🇷 !
 - 😏 Maybe one day I will learn Rust..
 - 🚀 My goal? Make systems reliable, scalable, and as hands-off as possible!
 
+Link to my main GitHub Website : https://alexandrelithaud.github.io/alexandreLITHAUD
+
 ---
 
 ### 🛠️ Languages
+
  <p align="left">
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -21,6 +24,7 @@ I am a fellow DevOps Engineer at AViSTO at Grenoble in France 🇫🇷 !
  </p>
 
 ### 🐳 DevOps Tools
+
  <p align="left">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -32,6 +36,7 @@ I am a fellow DevOps Engineer at AViSTO at Grenoble in France 🇫🇷 !
  </p>
 
 ### ⚙️ CI/CD
+
  <p align="left">
   <img src="https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -39,12 +44,14 @@ I am a fellow DevOps Engineer at AViSTO at Grenoble in France 🇫🇷 !
  </p>
 
 ### ☁️ Cloud
+
  <p align="left">
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
  </p>
 
 ### 📊 Monitoring & Observability
+
  <p align="left">
   <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
