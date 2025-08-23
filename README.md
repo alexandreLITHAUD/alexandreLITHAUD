@@ -28,6 +28,7 @@ I am a fellow DevOps Engineer at AViSTO at Grenoble in France 🇫🇷 !
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pulumi-512BD4?style=for-the-badge&logo=pulumi&logoColor=white" />
   <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white" />
  </p>
 
 ### ⚙️ CI/CD
@@ -43,12 +44,15 @@ I am a fellow DevOps Engineer at AViSTO at Grenoble in France 🇫🇷 !
   <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
  </p>
 
-### 📊 Monitoring
+### 📊 Monitoring & Observability
  <p align="left">
   <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/-Loki-000000?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/-Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jaeger-65A2C5?style=for-the-badge&logo=jaeger&logoColor=white" />
+ </p>
 
 ---
 
