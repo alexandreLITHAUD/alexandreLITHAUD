@@ -1,7 +1,3 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://alexandrelithaud.github.io/alexandreLITHAUD'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+title = 'Alexandre Lithaud Website'
